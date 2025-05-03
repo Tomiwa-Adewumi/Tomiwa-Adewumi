@@ -8,14 +8,15 @@
 
 # 📊 GitHub Stats
 <div align="center">
+
+   
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Tomiwa-Adewumi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/> -->
+
+ 
   <!-- GitHub Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Tomiwa-Adewumi&theme=dark&hide_border=false" /><br/>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomiwa-Adewumi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomiwa-Adewumi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 
 
 ## 🏆 GitHub Trophies
