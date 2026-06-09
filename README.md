@@ -1,5 +1,5 @@
 # 💫 About Me
-💻 Backend engineer passionate about using technology to solve real-world problems and making  meaningful impact.
+Backend engineer passionate about using technology to solve real-world problems and making  meaningful impact.
 
 
 # 💻 Tech Stack
