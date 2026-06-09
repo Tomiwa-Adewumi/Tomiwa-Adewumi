@@ -16,14 +16,6 @@
   <!-- GitHub Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Tomiwa-Adewumi&theme=dark&hide_border=false" /><br/>
 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tomiwa-Adewumi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
