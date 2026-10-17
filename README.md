@@ -12,7 +12,7 @@ I build backend services and data-driven applications. My work includes asynchro
 | --- | --- |
 | [CareRoute](https://github.com/Tomiwa-Adewumi/CareRoute) | Java/Spring Boot API, scheduled ingestion, PostgreSQL migrations, explainable forecasting, and baseline evaluation. |
 | [TwitterStockSignals](https://github.com/Tomiwa-Adewumi/TwitterStockSignals) | Python/FastAPI service with recoverable jobs, SQLite persistence, adapter-boundary tests, and container CI. |
-| [Local Contexts Integration](https://github.com/EmmanuelOgbole/local_contexts_integration) | Team-built Drupal module connecting repository items to Local Contexts labels. My contributions include [template updates](https://github.com/EmmanuelOgbole/local_contexts_integration/commit/d8ea522ede1fd0332b8cbe5a38d9ebe3dc11e963) and [label-display JavaScript](https://github.com/EmmanuelOgbole/local_contexts_integration/commit/f6431b44c264794988c5504824c666b74afb06c4). |
+| [Local Contexts Integration](https://github.com/EmmanuelOgbole/local_contexts_integration) | Team-built Drupal module connecting repository items to Local Contexts labels. |
 
 ## Additional projects
 
