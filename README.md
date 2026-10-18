@@ -10,6 +10,7 @@ I build backend services and data-driven applications. My work includes asynchro
 
 | Project | What to inspect |
 | --- | --- |
+| [Drop In](https://github.com/astoncodes/DropIn) | Expo pickup-sports app, TypeScript admin interface, Supabase/PostGIS data model, venue review, member-only chat, and RLS-backed access. |
 | [CareRoute](https://github.com/Tomiwa-Adewumi/CareRoute) | Java/Spring Boot API, scheduled ingestion, PostgreSQL migrations, explainable forecasting, and baseline evaluation. |
 | [TwitterStockSignals](https://github.com/Tomiwa-Adewumi/TwitterStockSignals) | Python/FastAPI service with recoverable jobs, SQLite persistence, adapter-boundary tests, and container CI. |
 | [Local Contexts Integration](https://github.com/Tomiwa-Adewumi/TeamX_Islandora) | Team-built Drupal module connecting repository items to Local Contexts labels. |
